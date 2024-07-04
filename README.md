@@ -17,7 +17,7 @@
   ## (1) Mapa distancias End-to-End animado
 ![Mapa animado distancias End-to-End](gifs/mapa_endtoend_5500_2003_49_puntos.gif)
 
-  ## (2) Mapa distancias trayectorias aniimado
+  ## (2) Mapa distancias trayectorias animado
   ![Mapa animado distancias End-to-End](gifs/mapa_long_traj_5500_2003_49_puntos.gif)
   
   
