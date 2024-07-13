@@ -4,7 +4,7 @@
 
 
   ## (1) Animated end-to-end distance map
-![Mapa animado distancias End-to-End](gifs/mapa_endtoend_5500_2003_49_puntos.gif)
+![Mapa animado distancias End-to-End](gifs/traj_2.5E.gif)
 
   ## (2) Animated trajectory distance map
   ![Mapa animado distancias End-to-End](gifs/mapa_long_traj_5500_2003_49_puntos.gif)
