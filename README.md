@@ -6,7 +6,7 @@
   ## Figure 14
 <p align="center">
   <img src="gifs/traj_2.5E.gif" alt="Mapa animado distancias End-to-End" height="400">
-  <img src="gifs_barras/barra_traj_25E.png" alt="PNG Image" height="400">
+  <img src="https://github.com/tu-usuario/tu-repositorio/raw/barras/gifs_barras/barra_traj_25E.png" alt="PNG Image" height="400">
 </p>
 
  
