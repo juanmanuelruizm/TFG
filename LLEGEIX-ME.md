@@ -11,13 +11,13 @@
 
 ## Figura 20
 <p align="center">
-  <img src="https://github.com/JuanManuelRM7/tfg/raw/main/gifs/Figura_20_animada.gif" height="700">
-  <img src="https://github.com/JuanManuelRM7/tfg/raw/main/gifs_barras/barra_20.png" height="700">
+  <img src="https://github.com/JuanManuelRM7/tfg/raw/main/gifs/Figura_20_animada.gif" height="600">
+  <img src="https://github.com/JuanManuelRM7/tfg/raw/main/gifs_barras/barra_20.png" height="600">
 </p>
 
 
 ## Figura 21
  <p align="center">
-  <img src="https://github.com/JuanManuelRM7/tfg/raw/main/gifs/Figura_21_animada.gif" height="700">
-  <img src="https://github.com/JuanManuelRM7/tfg/raw/main/gifs_barras/barra_21.png" height="700">
+  <img src="https://github.com/JuanManuelRM7/tfg/raw/main/gifs/Figura_21_animada.gif" height="600">
+  <img src="https://github.com/JuanManuelRM7/tfg/raw/main/gifs_barras/barra_21.png" height="600">
 </p>
