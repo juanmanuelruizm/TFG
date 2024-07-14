@@ -5,10 +5,14 @@
 
   ## Figure 14
 <p align="center">
-  <img src="https://github.com/JuanManuelRM7/tfg/raw/main/gifs/traj_25E.gif" alt="Mapa animado distancias End-to-End" height="400">
+  <img src="https://github.com/JuanManuelRM7/tfg/raw/main/gifs/traj_25E.gif" height="400">
   <img src="https://github.com/JuanManuelRM7/tfg/raw/main/gifs_barras/barra_traj_25E.png" height="400">
 </p>
 
- 
+ ## Figure 20
+ <p align="center">
+  <img src="https://github.com/JuanManuelRM7/tfg/raw/main/gifs/Figura_20_animada.gif" height="400">
+  <img src="https://github.com/JuanManuelRM7/tfg/raw/main/gifs_barras/barra_20.png" height="400">
+</p>
   
   
