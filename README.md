@@ -4,7 +4,10 @@
 
 
   ## Figure 14
-![Mapa animado distancias End-to-End](gifs/traj_2.5E.gif)
+<p align="center">
+  <img src="gifs/traj_2.5E.gif" alt="Mapa animado distancias End-to-End" height="400">
+  <img src="gifs_barras/barra_traj_25E.png" alt="PNG Image" height="400">
+</p>
 
  
   
