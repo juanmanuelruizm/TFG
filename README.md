@@ -16,3 +16,8 @@
 </p>
   
   
+ ## Figure 21
+ <p align="center">
+  <img src="https://github.com/JuanManuelRM7/tfg/raw/main/gifs/Figura_21_animada.gif" height="500">
+  <img src="https://github.com/JuanManuelRM7/tfg/raw/main/gifs_barras/barra_21.png" height="500">
+</p>
