@@ -26,6 +26,8 @@
 <p align="center">
   <img src="https://github.com/JuanManuelRM7/tfg/raw/main/gifs/Figura_23_arriba_izquierda.gif" height="300" style="display: inline-block;">
   <img src="https://github.com/JuanManuelRM7/tfg/raw/main/gifs/Figura_23_arriba_derecha.gif" height="300" style="display: inline-block;">
+  <img src="https://github.com/JuanManuelRM7/tfg/raw/main/gifs/Figura_23_abajo_izquierda.gif" height="300" style="display: inline-block;">
+  <img src="https://github.com/JuanManuelRM7/tfg/raw/main/gifs/Figura_23_abajo_derecha.gif" height="300" style="display: inline-block;">
 </p>
 
 
