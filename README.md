@@ -31,3 +31,11 @@
 </p>
 
 
+## Figure 25
+<p align="center">
+  <img src="https://github.com/JuanManuelRM7/tfg/raw/main/gifs/Figura_25_izquierda.gif" height="300" style="display: inline-block;">
+  <img src="https://github.com/JuanManuelRM7/tfg/raw/main/gifs/Figura_25_derecha.gif" height="300" style="display: inline-block;">
+</p>
+
+
+
