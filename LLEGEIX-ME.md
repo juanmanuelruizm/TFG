@@ -21,3 +21,25 @@
   <img src="https://github.com/JuanManuelRM7/tfg/raw/main/gifs/Figura_21_animada.gif" height="600">
   <img src="https://github.com/JuanManuelRM7/tfg/raw/main/gifs_barras/barra_21.png" height="600">
 </p>
+
+## Figura 23 
+<p align="center">
+  <img src="https://github.com/JuanManuelRM7/tfg/raw/main/gifs/Figura_23_arriba_izquierda.gif" height="300" style="display: inline-block;">
+  <img src="https://github.com/JuanManuelRM7/tfg/raw/main/gifs/Figura_23_arriba_derecha.gif" height="300" style="display: inline-block;">
+  <img src="https://github.com/JuanManuelRM7/tfg/raw/main/gifs/Figura_23_abajo_izquierda.gif" height="300" style="display: inline-block;">
+  <img src="https://github.com/JuanManuelRM7/tfg/raw/main/gifs/Figura_23_abajo_derecha.gif" height="300" style="display: inline-block;">
+</p>
+
+
+## Figura 25
+<p align="center">
+  <img src="https://github.com/JuanManuelRM7/tfg/raw/main/gifs/Figura_25_izquierda.gif" height="300" style="display: inline-block;">
+  <img src="https://github.com/JuanManuelRM7/tfg/raw/main/gifs/Figura_25_derecha.gif" height="300" style="display: inline-block;">
+</p>
+
+## Figura 27
+
+<p align="center">
+  <img src="https://github.com/JuanManuelRM7/tfg/raw/main/gifs/Figura_27_izquierda.gif" height="300" style="display: inline-block;">
+  <img src="https://github.com/JuanManuelRM7/tfg/raw/main/gifs/Figura_27_derecha.gif" height="300" style="display: inline-block;">
+</p>
