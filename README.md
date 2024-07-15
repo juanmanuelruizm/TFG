@@ -21,3 +21,10 @@
   <img src="https://github.com/JuanManuelRM7/tfg/raw/main/gifs/Figura_21_animada.gif" height="600">
   <img src="https://github.com/JuanManuelRM7/tfg/raw/main/gifs_barras/barra_21.png" height="600">
 </p>
+
+## Figure 23 
+<p align="center">
+  <img src="https://github.com/JuanManuelRM7/tfg/raw/main/gifs/Figura_23_arriba_izquierda.gif" height="400">
+  <img src="https://github.com/JuanManuelRM7/tfg/raw/main/gifs_barras/arriba_derecha.gif" height="400">
+</p>
+
