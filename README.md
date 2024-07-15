@@ -25,7 +25,7 @@
 ## Figure 23 
 <p align="center">
   <img src="https://github.com/JuanManuelRM7/tfg/raw/main/gifs/Figura_23_arriba_izquierda.gif" height="300" style="display: inline-block;">
-  <img src="https://github.com/JuanManuelRM7/tfg/raw/main/gifs/Figure_23_arriba_derecha.gif" height="300" style="display: inline-block;">
+  <img src="https://github.com/JuanManuelRM7/tfg/raw/main/gifs/Figura_23_arriba_derecha.gif" height="300" style="display: inline-block;">
 </p>
 
 
