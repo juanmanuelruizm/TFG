@@ -47,7 +47,7 @@
 
  ## Figure 28
  <p align="center">
-  <img src="https://github.com/JuanManuelRM7/tfg/raw/main/gifs/Figura_28.gif" height="500">
-  <img src="https://github.com/JuanManuelRM7/tfg/raw/main/gifs_barras/barra_28.png" height="500">
+  <img src="https://github.com/JuanManuelRM7/tfg/raw/main/gifs/Figura_28.gif" height="400">
+  <img src="https://github.com/JuanManuelRM7/tfg/raw/main/gifs_barras/barra_28.png" height="400">
 </p>
 
