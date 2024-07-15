@@ -2,6 +2,8 @@
 
 - In this repository, the results of the final degree project titled "A Lagrangian Method for the Identification of Atmospheric Blocking Situations" are presented. The files will be named numerically to ensure greater clarity. In the project document, the corresponding file number will be specified for each reference.
 
+- - This repository is a complement to my undergraduate thesis. To better understand each of the animations, see the corresponding figures.
+
 
   ## Figure 14
 <p align="center">
