@@ -2,6 +2,8 @@
 
 - En aquest repositori es presenten els resultats del treball de final de grau titulat: "Un mètode lagrangià per a la identificació de situacions de bloqueig atmosfèric". Els arxius es nomenaran de manera numèrica per a assegurar una major claredat. En el treball, s'especificarà el número d'arxiu corresponent a cada referència.
 
+- - Aquest repositori és un complement al meu TFG. Per a entendre millor cadascuna de les animacions, vegeu les figures corresponents.
+
 
   ## Figura 14
 <p align="center">
