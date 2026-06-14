@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use or reference this work, please cite it as below."
+title: "Un método lagrangiano para la identificación de situaciones de bloqueo atmosférico"
+abstract: >-
+  Bachelor's thesis proposing a Lagrangian method for identifying atmospheric
+  blocking situations through the massive analysis of HYSPLIT back-trajectories
+  driven by ERA5 reanalysis data, as an alternative to classical Eulerian,
+  thermodynamic-field diagnostics. Candidate blocking regions are flagged where
+  trajectories stagnate and delineated with DBSCAN density clustering.
+type: thesis
+authors:
+  - family-names: "Ruiz Muñoz"
+    given-names: "Juan Manuel"
+    affiliation: "Universidad de Alicante, Facultad de Ciencias"
+keywords:
+  - atmospheric blocking
+  - Lagrangian method
+  - back-trajectories
+  - HYSPLIT
+  - ERA5
+  - DBSCAN
+  - climate change
+license: CC-BY-4.0
+year: 2024
+url: "https://github.com/JuanManuelRM7/tfg"
