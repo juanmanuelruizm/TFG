@@ -1,0 +1,8 @@
+# Treat binary assets as binary (no diff/merge, no EOL conversion)
+*.gif   binary
+*.png   binary
+*.pdf   binary
+
+# Help GitHub's language stats focus on meaningful content
+docs/**      linguist-documentation
+figures/**   linguist-documentation
